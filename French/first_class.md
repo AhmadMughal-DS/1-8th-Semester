@@ -8,10 +8,12 @@ Greetings in French
 ----------------
 English | French | Pronunciation in English | Pronunciation in Urdu
 Good Morning | Bonjour | bon-zhoor | بونژوغ
+Good Midnight | Bonne nuit | bon nwee | بون نوی
 Good Night | Bonne nuit | bon nwee | بون نوی
 Good Evening | Bonsoir | bon-swar | بونسواغ
 Good Afternoon | Bon après-midi | bon ap-ray mee-dee | بون اپغے میدی
-
+Good Afternoon | Bon après-midi | bon ap-ray mee-dee | بون اپغے میدی
+Good noon | Bon après-midi | bon ap-ray mee-dee | بون اپغے میدی
 
 
 
@@ -20,13 +22,14 @@ Articles
 ----------------
 Male | Le | luh | لُ
 Female | La | lah | لا
-Plural | Les | lay | لے 
-Good noon | Bon après-midi | bon ap-ray mee-dee | بون اپغے میدی
-Good Afternoon | Bon après-midi | bon ap-ray mee-dee | بون اپغے میدی
-Good Midnight | Bonne nuit | bon nwee | بون نوی
+Plural | Les | lay | لے
+
 Good Bye | Au revoir | oh ruh-vwar | او غُوواغ
+
 See you later | À plus tard | ah ploo tar | آ پلو تاغ
+
 See you soon | À bientôt | ah byan-toh | آ بیان تو
+
 At | À | ah | آ
 to see | Voir | vwar | وواغ
 Good | Bon | bon | بون
@@ -44,7 +47,7 @@ Madam | Madame | ma-dam | مادام
 Mrs | Madame | ma-dam | مادام
 
 
-Miss | Mademoiselle | ma-dem-well | ماڈیم ویل
+Miss | Mademoiselle | ma-dem-well | ویلماڈیم 
 
 How going you | Comment allze vous | koh-mohn tah-lee voo | کومون تالی وو
 how | Comment | koh-mohn | کومون
