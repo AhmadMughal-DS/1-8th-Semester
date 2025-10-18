@@ -24,7 +24,7 @@
 | **G** | گ / ژ | g / zh |
 | **H** | خاموش | silent |
 | **J** | ژ | zh |
-| **R** | غ | guttural r |
+| **R** | غ (ایغ) | guttural r (like غ in Urdu) |
 
 ---
 
@@ -56,7 +56,7 @@
 
 ### 4. **Au revoir**
 - **French**: Au revoir
-- **Urdu Pronunciation**: او روُوار
+- **Urdu Pronunciation**: او غُووار (ایغ)
 - **English Pronunciation**: oh-ruh-VWAR
 - **Urdu Meaning**: الوداع
 - **English Meaning**: Goodbye
@@ -76,7 +76,7 @@
 
 ### 6. **Merci**
 - **French**: Merci
-- **Urdu Pronunciation**: میرسی
+- **Urdu Pronunciation**: میغسی (ایغ)
 - **English Pronunciation**: mair-SEE
 - **Urdu Meaning**: شکریہ
 - **English Meaning**: Thank you
@@ -404,28 +404,28 @@
 
 ### 62. **Père**
 - **French**: Père
-- **Urdu Pronunciation**: پیر
+- **Urdu Pronunciation**: پیغ (ایغ)
 - **English Pronunciation**: PAIR
 - **Urdu Meaning**: والد / باپ
 - **English Meaning**: Father
 
 ### 63. **Mère**
 - **French**: Mère
-- **Urdu Pronunciation**: میر
+- **Urdu Pronunciation**: میغ (ایغ)
 - **English Pronunciation**: MAIR
 - **Urdu Meaning**: والدہ / ماں
 - **English Meaning**: Mother
 
 ### 64. **Frère**
 - **French**: Frère
-- **Urdu Pronunciation**: فریر
+- **Urdu Pronunciation**: فغیغ (ایغ)
 - **English Pronunciation**: FRAIR
 - **Urdu Meaning**: بھائی
 - **English Meaning**: Brother
 
 ### 65. **Sœur**
 - **French**: Sœur
-- **Urdu Pronunciation**: سُور
+- **Urdu Pronunciation**: سُوغ (ایغ)
 - **English Pronunciation**: SUR
 - **Urdu Meaning**: بہن
 - **English Meaning**: Sister
