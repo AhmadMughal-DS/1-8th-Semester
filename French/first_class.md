@@ -7,10 +7,10 @@ Name Of Months in French
 Greetings in French
 ----------------
 English | French | Pronunciation in English | Pronunciation in Urdu
-Good Morning | Bonjour | bon-zhoor | بونژور
-Good Night | Bonne nuit | bon nwee | بون نی
-Good Evening | Bonsoir | bon-swar | بون سوار
-Good Afternoon | Bon après-midi | bon ap-ray mee-dee | بون اپرے می
+Good Morning | Bonjour | bon-zhoor | بونژوغ
+Good Night | Bonne nuit | bon nwee | بون نوی
+Good Evening | Bonsoir | bon-swar | بونسواغ
+Good Afternoon | Bon après-midi | bon ap-ray mee-dee | بون اپغے میدی
 
 
 
@@ -18,17 +18,17 @@ Good Afternoon | Bon après-midi | bon ap-ray mee-dee | بون اپرے می
 
 Articles
 ----------------
-Male | Le | luh | لے
+Male | Le | luh | لُ
 Female | La | lah | لا
 Plural | Les | lay | لے 
-Good noon | Bon après-midi | bon ap-ray mee-dee | بون اپرے می
-Good Afternoon | Bon après-midi | bon ap-ray mee-dee | بون اپرے می
-Good Midnight | Bonne nuit | bon nwee | بون نی
-Good Bye | Au revoir | oh ruh-vwar | او رووار
-See you later | À plus tard | ah ploo tar | آ پلوس تار
+Good noon | Bon après-midi | bon ap-ray mee-dee | بون اپغے میدی
+Good Afternoon | Bon après-midi | bon ap-ray mee-dee | بون اپغے میدی
+Good Midnight | Bonne nuit | bon nwee | بون نوی
+Good Bye | Au revoir | oh ruh-vwar | او غُوواغ
+See you later | À plus tard | ah ploo tar | آ پلو تاغ
 See you soon | À bientôt | ah byan-toh | آ بیان تو
 At | À | ah | آ
-to see | Voir | vwar | وار
+to see | Voir | vwar | وواغ
 Good | Bon | bon | بون
 All | Tout | too | تو
 
@@ -37,8 +37,8 @@ All | Tout | too | تو
 Formal Methods
 ----------------
 English | French | Pronunciation in English | Pronunciation in Urdu
-Mr | Monsieur | muh-syur | مسیو
-Sir | Monsieur | muh-syur | مسیو
+Mr | Monsieur | muh-syur | مُسیُوغ
+Sir | Monsieur | muh-syur | مُسیُوغ
 
 Madam | Madame | ma-dam | مادام
 Mrs | Madame | ma-dam | مادام

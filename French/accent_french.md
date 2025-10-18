@@ -29,6 +29,8 @@ French Word	Pronunciation (English style)	Meaning
 Très	tray	Very – بہت
 Où	oo	Where – کہاں
 À	ah	At / in / to – میں / کو
+
+**Note:** French 'R' is pronounced as 'غ' (ghayn) - a guttural sound from the throat.
 🇫🇷 3. L'accent cédille (¸) — Cedilla Accent
 
 **📝 Pronunciation Breakdown:**

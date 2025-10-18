@@ -24,7 +24,7 @@
 | **G** | گ / ژ | g / zh |
 | **H** | خاموش | silent |
 | **J** | ژ | zh |
-| **R** | غ (ایغ) | guttural r (like غ in Urdu) |
+| **R** | غ (ghayn) | like 'gh' in throat |
 
 ---
 
@@ -56,7 +56,7 @@
 
 ### 4. **Au revoir**
 - **French**: Au revoir
-- **Urdu Pronunciation**: او غُووار (ایغ)
+- **Urdu Pronunciation**: او روُوار
 - **English Pronunciation**: oh-ruh-VWAR
 - **Urdu Meaning**: الوداع
 - **English Meaning**: Goodbye
@@ -76,7 +76,7 @@
 
 ### 6. **Merci**
 - **French**: Merci
-- **Urdu Pronunciation**: میغسی (ایغ)
+- **Urdu Pronunciation**: میرسی
 - **English Pronunciation**: mair-SEE
 - **Urdu Meaning**: شکریہ
 - **English Meaning**: Thank you
@@ -404,28 +404,28 @@
 
 ### 62. **Père**
 - **French**: Père
-- **Urdu Pronunciation**: پیغ (ایغ)
+- **Urdu Pronunciation**: پیر
 - **English Pronunciation**: PAIR
 - **Urdu Meaning**: والد / باپ
 - **English Meaning**: Father
 
 ### 63. **Mère**
 - **French**: Mère
-- **Urdu Pronunciation**: میغ (ایغ)
+- **Urdu Pronunciation**: میر
 - **English Pronunciation**: MAIR
 - **Urdu Meaning**: والدہ / ماں
 - **English Meaning**: Mother
 
 ### 64. **Frère**
 - **French**: Frère
-- **Urdu Pronunciation**: فغیغ (ایغ)
+- **Urdu Pronunciation**: فریر
 - **English Pronunciation**: FRAIR
 - **Urdu Meaning**: بھائی
 - **English Meaning**: Brother
 
 ### 65. **Sœur**
 - **French**: Sœur
-- **Urdu Pronunciation**: سُوغ (ایغ)
+- **Urdu Pronunciation**: سُور
 - **English Pronunciation**: SUR
 - **Urdu Meaning**: بہن
 - **English Meaning**: Sister
@@ -1084,8 +1084,9 @@
    - Example: "Paris" (پاری - pa-REE, not pa-RIS)
 
 2. **R Sound | ر کی آواز**
-   - فرانسیسی 'R' حلق سے بولا جاتا ہے (جیسے 'غ')
-   - French 'R' is pronounced in the throat (like 'gh')
+   - فرانسیسی 'R' حلق سے بولا جاتا ہے (جیسے 'غ' - ghayn)
+   - French 'R' is pronounced in the throat (like 'gh' sound, guttural)
+   - Example: "Merci" (میغسی - mair-SEE), "Parler" (پاغلے - par-LAY)
 
 3. **Nasal Sounds | ناک سے نکلنے والی آوازیں**
    - -an, -en, -in, -on ناک سے بولے جاتے ہیں
