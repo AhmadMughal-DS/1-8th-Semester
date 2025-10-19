@@ -7,10 +7,10 @@
 | **English** | **French** | **English Pronunciation** | **Urdu Pronunciation** |
 |-------------|-----------|---------------------------|--------------------------|
 | I am | Je suis | zhuh swee | ژُ سوی |
-| You are (informal) | Tu es | too eh | تو اے |
 | He/She is | Il/Elle est | eel/el eh | ایل اے |
 | We are | Nous sommes | noo sum | نو سُم |
 | You are (formal/plural) | Vous êtes | voo et | وو ایت |
+| You are (informal) | Tu es | too eh | تو اے |
 | They are | Ils/Elles sont | eel/el son | ایل سوں |
 
 ---

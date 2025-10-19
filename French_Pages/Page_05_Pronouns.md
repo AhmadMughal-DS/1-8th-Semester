@@ -7,12 +7,13 @@
 | **English** | **French** | **English Pronunciation** | **Urdu Pronunciation** |
 |-------------|-----------|---------------------------|--------------------------|
 | I | Je | zhuh | ژُ |
-| You (singular informal) | Tu | too | تو |
-| You (singular formal) | Vous | voo | وو |
+
 | He | Il | eel | ایل |
 | She | Elle | el | ایل |
 | We | Nous | noo | نو |
 | You (plural) | Vous | voo | وو |
+| You (singular informal) | Tu | too | تو |
+| You (singular formal) | Vous | voo | وو |
 | They (males/mixed) | Ils | eel | ایل |
 | They (all females) | Elles | el | ایل |
 
