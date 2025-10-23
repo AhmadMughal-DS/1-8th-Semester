@@ -49,7 +49,17 @@ Record yourself saying this (or write your own version). I’ll help you refine 
 
 🛠️ Part 3: DevOps Skill Focus – Git Basics
 🔹 Key Git Commands to Know
-Shellgit init           # Initialize a new Git repositorygit clone <url>    # Clone a repositorygit status         # Check status of filesgit add .          # Stage all changesgit commit -m "message"  # Commit changesgit push origin main     # Push to remote repositorygit pull           # Pull latest changesgit branch         # List branchesgit checkout -b <branch-name>  # Create and switch to a new branchShow more lines
+Shell
+git init           # Initialize a new Git repository
+git clone <url>    # Clone a repository
+git status         # Check status of files
+git add .          # Stage all changes
+git commit -m "message"  # Commit changes
+git push origin main     # Push to remote repository
+git pull           # Pull latest changes
+git branch         # List branches
+git checkout -b <branch-name>  # Create and switch to a new branch
+Show more lines
 ✅ Practice Task:
 Write a short explanation (in English) of what each command does. I’ll help you correct and improve your writing.
 
