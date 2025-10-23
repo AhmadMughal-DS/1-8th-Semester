@@ -25,63 +25,6 @@ Let’s start with 10 essential DevOps terms you should know and be able to expl
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Term Meaning Example Sentence
 CI/CD Continuous Integration / Continuous Deployment "We use CI/CD pipelines to automate testing and deployment."
 Version Control System to track changes in code "Git helps us manage version control efficiently."
