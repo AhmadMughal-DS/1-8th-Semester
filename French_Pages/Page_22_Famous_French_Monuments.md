@@ -8,7 +8,7 @@
 
 ## 2. Arc de Triomphe
 
-**Arc de Triomphe de l'Étoile** (pronounced "ARK duh tree-OHNF duh lay-TWAL") is a 50-meter tall Neoclassical monument at Place Charles de Gaulle in Paris, commissioned by Napoleon Bonaparte in 1806 and completed in 1836. The Arc features famous sculptures including "La Marseillaise," with 128 battle names and 558 generals' names inscribed on its surfaces. In 1920, the Tomb of the Unknown Soldier was added beneath it with an eternal flame lit daily at 6:30 PM, and it stands at the center of twelve radiating avenues including the famous Champs-Élysées.
+**Arc de Triomphe de l'Étoile** (pronounced "ARK duh tree-OHNF duh lay-TWAL") is a 50-meter tall Neoclassical monument at Place Charles de Gaulle in Paris, commissioned by Napoleon Bonaparte in 1806 and completed in 1836. The architecture features famous sculptures including "La Marseillaise," with 128 battle names and 558 generals' names inscribed on its surfaces. In 1920, the Tomb of the Unknown Soldier was added beneath it with an eternal flame and it stands at the center of twelve radiating avenues including the famous Champs-Élysées.
 
 ---
 
