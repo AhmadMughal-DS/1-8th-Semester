@@ -1,7 +1,5 @@
 # Page 22: Famous French Monuments
 
----
-
 ## 1. Notre-Dame Cathedral
 
 **Notre-Dame de Paris** (pronounced "NOH-truh DAHM duh pah-REE") is a masterpiece of French Gothic architecture built between 1163 and 1345 on the Île de la Cité in Paris, featuring 69-meter twin towers, magnificent stained glass rose windows, and famous gargoyles. It witnessed Napoleon's self-coronation in 1804 and gained literary fame through Victor Hugo's 1831 novel "The Hunchback of Notre-Dame." On April 15, 2019, a devastating fire destroyed the spire and two-thirds of the roof, though firefighters saved the main structure and rose windows, with reconstruction underway and a target reopening of December 2024.
